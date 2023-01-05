@@ -4,3 +4,7 @@
 ```
 npm install --save json-server
 ```
+- Crear package.json
+```
+npm init
+```
