@@ -8,3 +8,7 @@ npm install --save json-server
 ```
 npm init
 ```
+- Correr el servidor
+```
+npm run run-server
+```
