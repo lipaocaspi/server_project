@@ -4,9 +4,9 @@
 ```
 npm install --save json-server
 ```
-- Crear package.json.
+- Editar package.json y agregar la IP del ordenador al script. Ejemplo:
 ```
-npm init
+"run-server": "json-server --host 192.168.1.37 db.json"
 ```
 - Correr el servidor.
 ```
