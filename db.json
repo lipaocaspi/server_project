@@ -2,11 +2,11 @@
   "users": [
     {
       "id": 1,
-      "name": "Martha Pinzón",
-      "dateOfBirth": "3/7/1999",
-      "email": "suamar_1998@hotmail.co",
+      "name": "Martha Pinzón Rivera",
+      "dateOfBirth": "13/7/1999",
+      "email": "suamar_1998@hotmail.com",
       "icon": "https://cdn.icon-icons.com/icons2/1622/PNG/512/3741756-bussiness-ecommerce-marketplace-onlinestore-store-user_108907.png",
-      "password": "paolita"
+      "password": "martha"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Cami Vargas",
       "dateOfBirth": "5/7/1997",
-      "email": "camvar@hotmail.co",
+      "email": "camvar@hotmail.com",
       "icon": "https://cdn.icon-icons.com/icons2/1622/PNG/512/3741756-bussiness-ecommerce-marketplace-onlinestore-store-user_108907.png",
       "password": "Cami5797"
     },
@@ -100,50 +100,6 @@
   "rides": [
     {
       "id": 1,
-      "userId": 1,
-      "userP1Id": 2,
-      "userP2Id": 0,
-      "userP3Id": 0,
-      "userP4Id": 0,
-      "start": "Cl. 10 #7-65, , Floridablanca",
-      "latS": "7.0592315164299",
-      "lonS": "-73.08494087308647",
-      "end": "Cra. 30 #12 - 06, , Bucaramanga",
-      "latE": "7.1361490157099325",
-      "lonE": "-73.11789717525244",
-      "dateAndTime": "11/1/2023 14:00",
-      "vehicle": "Motocicleta",
-      "room": "1",
-      "color": "Azul",
-      "plate": "ASX47S",
-      "price": "2600",
-      "state": false,
-      "stateR": false
-    },
-    {
-      "id": 2,
-      "userId": 3,
-      "userP1Id": 0,
-      "userP2Id": 0,
-      "userP3Id": 0,
-      "userP4Id": 0,
-      "start": "Centro Comercial Cacique, La Victoria, Bucaramanga",
-      "latS": "7.100303781170139",
-      "lonS": "-73.10707580298185",
-      "end": "UCC, , Bucaramanga",
-      "latE": "7.129082859284859",
-      "lonE": "-73.1138614565134",
-      "dateAndTime": "12/1/2023 08:00",
-      "vehicle": "Automóvil",
-      "room": "3",
-      "color": "Negro",
-      "plate": "WSD475",
-      "price": "2000",
-      "state": false,
-      "stateR": false
-    },
-    {
-      "id": 3,
       "userId": 2,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -165,7 +121,7 @@
       "stateR": false
     },
     {
-      "id": 4,
+      "id": 2,
       "userId": 1,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -187,7 +143,7 @@
       "stateR": false
     },
     {
-      "id": 5,
+      "id": 3,
       "userId": 2,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -209,29 +165,7 @@
       "stateR": false
     },
     {
-      "id": 6,
-      "userId": 3,
-      "userP1Id": 0,
-      "userP2Id": 0,
-      "userP3Id": 0,
-      "userP4Id": 0,
-      "start": "Centro Comercial Cacique, La Victoria, Bucaramanga",
-      "latS": "7.100397271262545",
-      "lonS": "-73.10729507356882",
-      "end": "Cra. 27 #946, , Bucaramanga",
-      "latE": "7.1383822843656874",
-      "lonE": "-73.12019381672144",
-      "dateAndTime": "16/1/2023 16:00",
-      "vehicle": "Automóvil",
-      "room": "3",
-      "color": "Negro",
-      "plate": "WSD475",
-      "price": "2000",
-      "state": false,
-      "stateR": false
-    },
-    {
-      "id": 7,
+      "id": 4,
       "userId": 1,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -253,7 +187,7 @@
       "stateR": false
     },
     {
-      "id": 8,
+      "id": 5,
       "userId": 3,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -265,7 +199,7 @@
       "end": "Cra. 33 #31-125, , Bucaramanga",
       "latE": "7.128431463293418",
       "lonE": "-73.1138413399458",
-      "dateAndTime": "17/1/2023 13:00",
+      "dateAndTime": "17/1/2023 13:50",
       "vehicle": "Motocicleta",
       "room": "1",
       "color": "Negro",
@@ -275,7 +209,7 @@
       "stateR": false
     },
     {
-      "id": 9,
+      "id": 6,
       "userId": 2,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -297,7 +231,7 @@
       "stateR": false
     },
     {
-      "id": 10,
+      "id": 7,
       "userId": 3,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -319,7 +253,7 @@
       "stateR": false
     },
     {
-      "id": 11,
+      "id": 8,
       "userId": 1,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -341,7 +275,7 @@
       "stateR": false
     },
     {
-      "id": 12,
+      "id": 9,
       "userId": 1,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -363,7 +297,7 @@
       "stateR": false
     },
     {
-      "id": 13,
+      "id": 10,
       "userId": 4,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -385,7 +319,7 @@
       "stateR": false
     },
     {
-      "id": 14,
+      "id": 11,
       "userId": 4,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -407,7 +341,7 @@
       "stateR": false
     },
     {
-      "id": 15,
+      "id": 12,
       "userId": 1,
       "userP1Id": 0,
       "userP2Id": 0,
@@ -432,7 +366,7 @@
   "messages": [
     {
       "id": 1,
-      "userIdOne": 3,
+      "userIdOne": 2,
       "userIdTwo": 7,
       "text": "Hola",
       "idSent": 7
