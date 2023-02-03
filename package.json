@@ -7,7 +7,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "run-server": "json-server --host 192.168.1.37 db.json"
+    "run-server": "json-server --host 192.168.1.41 db.json"
   },
   "author": "",
   "license": "ISC",

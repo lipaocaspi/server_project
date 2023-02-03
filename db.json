@@ -299,7 +299,7 @@
     {
       "id": 10,
       "userId": 4,
-      "userP1Id": 0,
+      "userP1Id": 2,
       "userP2Id": 0,
       "userP3Id": 0,
       "userP4Id": 0,
@@ -366,6 +366,7 @@
   "messages": [
     {
       "id": 1,
+      "rideId": 0,
       "userIdOne": 2,
       "userIdTwo": 7,
       "text": "Hola",
